@@ -1,4 +1,4 @@
-# nicktunder11.
+# nicktunder11
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
